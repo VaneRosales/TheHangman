@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713672551 source:c:\users\vanessa outsider\onedrive - universidad de sonsonate\hola uwu\ahorcado-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<locale.h>
+	<wchar.h>
+	<fstream>
+
